@@ -24,7 +24,7 @@ concurrency:
 jobs:
   changeApproval:
     name: ServiceNow Change Approval
-    runs-on: ubutun-latest
+    runs-on: ubuntu-latest
 
     steps:     
       - name: ServiceNow Change Approval
